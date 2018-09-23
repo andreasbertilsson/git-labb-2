@@ -15,3 +15,11 @@ $ git config --global user.email "[email adress]"
 ```BASH
 $ git config --global color.ui auto
 ```
+
+## MAKE CHANGES
+
+### Lists all new or modified files title commited
+$ git status
+
+### Snapshots the file in preparation for versioning
+$ git add [file]
